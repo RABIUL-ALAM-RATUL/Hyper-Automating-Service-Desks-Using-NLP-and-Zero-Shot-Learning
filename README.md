@@ -1,0 +1,2 @@
+# Hyper-Automating-Service-Desks-Using-NLP-and-Zero-Shot-Learning
+The IT Infrastructure Library (ITIL) framework has been the standard for IT service management (ITSM). It offers a structured way to manage IT services and infrastructure. To the growing complexity and size of modern IT environments have revealed the weaknesses of traditional, manual ITSM processes this project will help to automate the operations.
